@@ -8,4 +8,5 @@ Sure! here:
 # Credit
 
 [Rose Pine](https://rosepinetheme.com) for the colors
+
 [Deserted](https://github.com/wooosh/star/tree/master/deserted-fonts) for the font
