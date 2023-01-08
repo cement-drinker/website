@@ -1,2 +1,2 @@
 # Why?
-damn rosepine startpage only coming in dark mode... /s
+dang rosepine startpage only coming in dark mode... /s
