@@ -1,0 +1,27 @@
+body {
+    background: repeating-radial-gradient(circle at bottom right,#faf4ed 0 20%, #ea9d34 0 40%, #286983 0 60%, #b4637a 0 80%, #575279 0 );
+    background-attachment: fixed;
+}
+.time {
+    font-family: 'beachedttf';
+    font-weight: bold;
+    border-radius: 15px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: #286983;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  padding-left: 25px;
+  padding-right: 25px;
+  border-color: #faf4ed;
+  border-width: 20px;
+  border-style: solid;
+  padding-top: 5px;
+  padding-bottom: 5px;
+    vertical-align: middle;
+    font-size: 50px;
+    text-align: center;
+    background-color: #f2e9e1;
+}
